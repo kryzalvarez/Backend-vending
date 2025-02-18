@@ -11,7 +11,7 @@
       "src": "/(.*)",
       "dest": "server.js",
       "headers": {
-        "x-forwarded-proto": "http"
+        "x-forwarded-proto": "https"
       }
     }
   ]
